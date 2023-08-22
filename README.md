@@ -5,7 +5,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=silvioafdev&theme=ambient-gradient&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvioafdev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvioafdev&layout=compact&theme=dark)](https://github.com/silvioafdev/github-readme-stats)
 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/angularjs/angularjs-original.svg">
