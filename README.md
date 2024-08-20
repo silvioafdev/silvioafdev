@@ -3,21 +3,6 @@
 
 <div>----------------------------------------------</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=silvioafdev&theme=ambient-gradient&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats-rho-beige-63.vercel.app/api/top-langs/?username=silvioafdev&layout=compact&theme=dark)](https://github.com/silvioafdev/github-readme-stats)
-
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/django/django-plain.svg" />
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/docker/docker-original.svg" />
-
-<div>----------------------------------------------</div>
-
 ### Connections
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/silvio-franco-496145275/)
