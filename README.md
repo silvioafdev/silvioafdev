@@ -1,5 +1,5 @@
 #
-<div align=center style="border: 2px solid gray; padding: 10px; background-color: #373625"> ✌️ <span style="font-family: monospace">Hello! My name is Silvio, Dev student chasing my first opportunity to work with software development. Postgraduation in FullStack Development in progress, Electrical Engineering Bachelor.</span>
+<div align=center style="border: 2px solid gray; padding: 10px; background-color: #373625"> ✌️ <span style="font-family: monospace">Hello! My name is Silvio, I'm making a FullStack Dev internship in NBWDigital - Brazil. Postgraduation in FullStack Development in progress, Electrical Engineering Bachelor.</span>
 
 <div>----------------------------------------------</div>
 
